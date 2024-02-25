@@ -1,0 +1,21 @@
+@media (max-width: 430px) {
+    .top {
+        width: 100%;
+    }
+
+    .voyager {
+        width: 100%;
+    }
+
+    .drifter {
+        width: 100%;
+    }
+
+    .collection {
+        width: 100%;
+    }
+
+    .contact {
+        width: 100%;
+    }
+}
